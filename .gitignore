@@ -5,18 +5,4 @@ images/
 *.jpeg
 *.zip
 
-# Ignore Python cache
-__pycache__/
-*.pyc
 
-# Ignore Jupyter checkpoints
-.ipynb_checkpoints/
-
-# Ignore virtual environments
-venv/
-env/
-.venv/
-
-# Ignore system files
-.DS_Store
-Thumbs.db
